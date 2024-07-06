@@ -88,6 +88,7 @@ packaging==24.1
 pandas==2.2.2
 pandocfilters==1.5.1
 parso==0.8.4
+patsy==0.5.6
 pillow==10.3.0
 platformdirs==4.2.2
 prometheus_client==0.20.0
@@ -115,11 +116,13 @@ rich==13.7.1
 rpds-py==0.18.1
 scikit-learn==1.5.0
 scipy==1.14.0
+seaborn==0.13.2
 Send2Trash==1.8.3
 six==1.16.0
 sniffio==1.3.1
 soupsieve==2.5
 stack-data==0.6.3
+statsmodels==0.14.2
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.16.2
@@ -134,7 +137,6 @@ traitlets==5.14.3
 types-python-dateutil==2.9.0.20240316
 typing_extensions==4.12.2
 tzdata==2024.1
-ucimlrepo==0.0.7
 uri-template==1.3.0
 urllib3==2.2.2
 wcwidth==0.2.13
